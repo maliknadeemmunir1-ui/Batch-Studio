@@ -1,0 +1,7 @@
+{
+  "name": "Creative Batch Studio",
+  "description": "A powerful image editing tool that allows batch processing of 20 images with face swapping, color theme application, and AI-powered description rewriting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
